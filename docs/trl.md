@@ -1,5 +1,3 @@
-Try this:
-
 ### Start trl vllm-serve
 
 Get a node for trl vllm-serve.
